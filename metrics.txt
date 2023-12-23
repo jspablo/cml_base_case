@@ -1,2 +1,4 @@
-Accuracy: 0.872
-Tree depth: 5
+
+Accuracy:     0.8600
+
+![Confusion Matrix](plot.png)
